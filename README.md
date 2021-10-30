@@ -5,22 +5,12 @@
 </p>
 
 
-
-<!-- <img align="right" src="https://user-images.githubusercontent.com/3253714/139543642-00f89a69-22b5-423f-93c1-c257b4cb3864.png" width="400px"> -->
-<!-- <img align="right" src="https://user-images.githubusercontent.com/3253714/139555814-f193936e-736c-49ad-8862-24546e696de1.png" width="200px"> -->
-<!-- ![Astronaut-Working-Laptop-Writing](https://user-images.githubusercontent.com/3253714/139556607-1d57f93f-4dbc-407a-b1b7-53516018fa21.png) -->
-<!-- <img align="right" src="https://user-images.githubusercontent.com/3253714/139556871-495fa943-638e-4991-b6fb-4557db3f65a0.png" alt="Astronaut Working" width="300px" height="300px" /> -->
-
-<!-- ![Astronaut-With-Dog](https://user-images.githubusercontent.com/3253714/139557357-181530a3-b19b-4900-9c93-8dbb2ad3cc61.png) -->
-
 #### A Bit About Me
 <img align="left" src="https://user-images.githubusercontent.com/3253714/139557357-181530a3-b19b-4900-9c93-8dbb2ad3cc61.png" alt="Astronaut With Dog" height="75" />
 
 - Known around here as @Epitome87
 - I live in a small town in California, along with my handsome dog Leon!
 - In my spare time, I enjoy learning the piano, guitar, and playing video games
-
-
 
 #### My Career Goals
 <img align="left" src="https://user-images.githubusercontent.com/3253714/139555727-66adb928-114b-4f8c-ad45-bb910209933c.png" height="80" width="90"/>
@@ -29,11 +19,8 @@
 - I’m currently learning Unity, full-stack web development, and Blender!
 - I'm hoping to be a freelancer or career-ready by early 2022!
 
-<!-- <img align="right" src="https://user-images.githubusercontent.com/3253714/139556607-1d57f93f-4dbc-407a-b1b7-53516018fa21.png" width="75" height="75" /> -->
 
 #### Let's Collaborate!
-<!-- ![Astronaut-Collab-Small](https://user-images.githubusercontent.com/3253714/139557681-011d8043-365b-40e7-8b01-39e0d6bf0e29.png) -->
-
 <img align="left" src="https://user-images.githubusercontent.com/3253714/139557681-011d8043-365b-40e7-8b01-39e0d6bf0e29.png" height="75" />
 
 - I’m looking to collaborate on front/back-end web development and Unity projects!
@@ -60,8 +47,8 @@
 
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Epitome87&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Matthews's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Epitome87&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Epitome87&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Matthews's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Epitome87&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
