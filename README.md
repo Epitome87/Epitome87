@@ -26,13 +26,11 @@
 - I’m looking to collaborate on front/back-end web development and Unity projects!
 - Please reach me at rubywep@hotmail.com (for now)!
 - You can also reach me at any of my socials, linked near the end!
- 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epitome87&label=Profile%20views&color=0e75b6&style=flat" alt="epitome87" /> </p>
 
 <hr>
 
-<!-- ### <img src="https://user-images.githubusercontent.com/3253714/139555302-a24392ca-ad13-4858-945b-dcd0704ff300.png" width="30" height="30" /> -->
 ### My Developer Toolbox
 
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/></a>
@@ -79,10 +77,10 @@
 ### Visit Me On My Socials!
 
 <p align="left">
-  <a href="https://linkedin.com/in/matthew-mcgrath1987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-mcgrath1987" height="30" width="40" /></a>
-  <a href="https://fb.com/iepitomei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iepitomei" height="30" width="40" /></a>
-   <a href="https://twitter.com/epitome87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epitome87" height="30" width="40" /></a>
-  <a href="https://codepen.io/matt-mcgrath-the-bold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matt-mcgrath-the-bold" height="30" width="40" /></a>
-  <a href="https://dribbble.com/epitome87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="epitome87" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/epitome1987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="epitome1987" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/matthew-mcgrath1987" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-mcgrath1987" height="30" width="40" /></a>
+  <a href="https://fb.com/iepitomei" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iepitomei" height="30" width="40" /></a>
+   <a href="https://twitter.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epitome87" height="30" width="40" /></a>
+  <a href="https://codepen.io/matt-mcgrath-the-bold" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matt-mcgrath-the-bold" height="30" width="40" /></a>
+  <a href="https://dribbble.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="epitome87" height="30" width="40" /></a>
+  <a href="https://www.youtube.com//epitome1987" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="epitome1987" height="30" width="40" /></a>
 </p>
