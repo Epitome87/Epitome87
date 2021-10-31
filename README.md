@@ -25,23 +25,41 @@
 
 - I’m looking to collaborate on front/back-end web development and Unity projects!
 - Please reach me at rubywep@hotmail.com (for now)!
+- You can also reach me at any of my socials, linked near the end!
  
-<br>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=epitome87&label=Profile%20views&color=0e75b6&style=flat" alt="epitome87" /> </p>
+
 <hr>
 
 <!-- ### <img src="https://user-images.githubusercontent.com/3253714/139555302-a24392ca-ad13-4858-945b-dcd0704ff300.png" width="30" height="30" /> -->
 ### My Developer Toolbox
 
-<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="50" height="50"/>
+<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="50" height="50"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus logo" width="50" height="50"/> </a> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongodb Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="ThreeJS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity Logo" width="50" height="50"/>
+<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express Logo" width="50" height="50"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github Logo" width="50" height="50"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"/></a>
+<a href="https://heroku.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku Logo" width="50" height="50"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongodb Logo" width="50" height="50"/></a>
+</a> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50"/></a>
+<a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/></a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="50" height="50"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/></a>
+<a href="https://sass-lang.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS Logo" width="50" height="50"/></a>
+<a href="https://threejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="ThreeJS Logo" width="50" height="50"/></a>
+<a href="https://trello.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello Logo" width="50" height="50"/></a><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/></a>
+<a href="https://unity.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity Logo" width="50" height="50"/></a>
 <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine Logo" width="50" height="50"/> </a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"/>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Logo" width="50" height="50"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"/></a>
 
 <hr>
 
@@ -51,17 +69,20 @@
 [![Matthew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Epitome87&theme=github_dark&layout=compact&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Matthew's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Epitome87&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=5221DD)](https://git.io/streak-stats)
 
+<hr>
 
 
 <!--  Github Trophy Showcase - Hiding this until I get better trophies! -->
 <!-- ### Github Trophy Showcase
 [![Matthew's Github Trophies](https://github-profile-trophy.vercel.app/?username=Epitome87&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
  -->
-### Connect with Me!
+### Visit Me On My Socials!
 
 <p align="left">
-<a href="https://linkedin.com/in/matthew-mcgrath1987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-mcgrath1987" height="30" width="40" /></a>
-<a href="https://fb.com/iepitomei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iepitomei" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/matthew-mcgrath1987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-mcgrath1987" height="30" width="40" /></a>
+  <a href="https://fb.com/iepitomei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iepitomei" height="30" width="40" /></a>
+   <a href="https://twitter.com/epitome87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epitome87" height="30" width="40" /></a>
+  <a href="https://codepen.io/matt-mcgrath-the-bold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matt-mcgrath-the-bold" height="30" width="40" /></a>
+  <a href="https://dribbble.com/epitome87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="epitome87" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/epitome1987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="epitome1987" height="30" width="40" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=epitome87&label=Profile%20views&color=0e75b6&style=flat" alt="epitome87" /> </p>
