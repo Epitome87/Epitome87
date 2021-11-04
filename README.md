@@ -14,7 +14,8 @@
 - In my spare time, I enjoy learning the piano, guitar, and playing video games
 
 #### My Career Goals
-<img align="left" src="https://user-images.githubusercontent.com/3253714/139555727-66adb928-114b-4f8c-ad45-bb910209933c.png" height="80" width="90"/>
+<img align="left" src="https://user-images.githubusercontent.com/3253714/140267403-0cf0ad65-cba1-4e89-9dc9-22d108d89dd6.png" height="75" />
+
 
 - I’m interested in strengthening my web and game development skills, along with 3D modeling!
 - I’m currently learning Unity, full-stack web development, and Blender!
