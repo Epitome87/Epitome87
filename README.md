@@ -34,39 +34,96 @@
 
 ### My Developer Toolbox
 
-<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="50" height="50"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus logo" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express Logo" width="50" height="50"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github Logo" width="50" height="50"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"/></a>
-<a href="https://heroku.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku Logo" width="50" height="50"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongodb Logo" width="50" height="50"/></a>
-</a> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50"/></a>
-<a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="50" height="50"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/></a>
+
+
+
+<details>
+  <summary>Programming Languages...</summary>
+  <p align="left">
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus logo" width="50" height="50"/> </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50"/></a>
+    <a href="https://www.java.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/></a>
+  </p>
+</details>
+
+<details>
+  <summary>Front-End Development...</summary>
+  <p align="left">
+    <a href="https://getbootstrap.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="50" height="50"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/></a>
+      <a href="https://www.figma.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"/></a>
+        <a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"/></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/></a>
 <a href="https://sass-lang.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS Logo" width="50" height="50"/></a>
-<a href="https://threejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="ThreeJS Logo" width="50" height="50"/></a>
-<a href="https://trello.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello Logo" width="50" height="50"/></a><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/></a>
-<a href="https://unity.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity Logo" width="50" height="50"/></a>
+    <a href="https://threejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="ThreeJS Logo" width="50" height="50"/></a>
+
+  </p>
+</details>
+
+<details>
+  <summary>Back-End Development...</summary>
+  <p align="left">
+    <a href="https://expressjs.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express Logo" width="50" height="50"/></a>
+        <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongodb Logo" width="50" height="50"/></a>
+    </a> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50"/></a>
+  </p>
+</details>
+
+<details>
+  <summary>Game Development...</summary>
+  <p align="left">
+      <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/></a>
+  <a href="https://www.photo
+         shop.com/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="50" height="50"/></a>
+    <a href="https://unity.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity Logo" width="50" height="50"/></a>
 <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine Logo" width="50" height="50"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Logo" width="50" height="50"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"/></a>
+  </p>
+</details>
+
+<details>
+  <summary>The Rest...</summary>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github Logo" width="50" height="50"/></a>
+  <a href="https://heroku.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku Logo" width="50" height="50"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/></a>
+  <a href="https://trello.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello Logo" width="50" height="50"/></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Logo" width="50" height="50"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"/></a>
+  </p>
+</details>
 
 <hr>
 
-### My GitHub Stats 
+<!-- ### My GitHub Stats 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Epitome87&theme=github_dark&show_icons=true&hide=issues&disable_animations=false&custom_title=Matthew's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Matthew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Epitome87&theme=github_dark&layout=compact&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Matthew's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Epitome87&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=5221DD)](https://git.io/streak-stats)
+[![Matthew's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Epitome87&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=5221DD)](https://git.io/streak-stats) -->
+
+### My Statistics
+
+<details>
+  <summary>Github Statistics...</summary>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Epitome87&theme=github_dark&show_icons=true&hide=issues&disable_animations=false&custom_title=Matthew's%20Github%20Stats&border_radius=10&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epitome87&theme=github_dark&layout=compact&disable_animations=false&border_radius=10&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Epitome87&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=5221DD&hide_border=true" />
+  </p>
+</details>
+
+<details>
+  <summary>WakaTime Statistics...</summary>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=epitome87&theme=github_dark" />
+<!--
+    <img src="https://wakatime.com/share/@e3af40dc-cb30-41e1-a35d-9bfdf7ef6f96/64a09240-2538-452d-ae3c-e1384c8c537b.svg" height="300" />
+    <img src="https://wakatime.com/share/@e3af40dc-cb30-41e1-a35d-9bfdf7ef6f96/73305509-532b-4bbd-a3b0-50c6164065bc.svg" height="300" /> 
+-->
+    
+  </p>
+</details>
 
 <hr>
 
@@ -85,3 +142,11 @@
   <a href="https://dribbble.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="epitome87" height="30" width="40" /></a>
   <a href="https://www.youtube.com//epitome1987" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="epitome1987" height="30" width="40" /></a>
 </p>
+
+
+
+
+
+
+
+
