@@ -9,7 +9,7 @@
 #### A Bit About Me
 <img align="left" src="https://user-images.githubusercontent.com/3253714/139557357-181530a3-b19b-4900-9c93-8dbb2ad3cc61.png" alt="Astronaut With Dog" height="75" />
 
-- Known around here as @Epitome87
+- Known here as @Epitome87
 - I live in a small town in California, along with my handsome dog Leon!
 - In my spare time, I enjoy learning the piano, guitar, and playing video games
 
@@ -17,16 +17,16 @@
 <img align="left" src="https://user-images.githubusercontent.com/3253714/140267403-0cf0ad65-cba1-4e89-9dc9-22d108d89dd6.png" height="75" />
 
 
-- I’m interested in strengthening my web and game development skills, along with 3D modeling!
-- I’m currently learning Unity, full-stack web development, and Blender!
+- I’m interested in strengthening my web and game development skills, along with 3D modeling
+- I’m currently learning Unity, full-stack web development, and Blender
 - I'm hoping to be a freelancer or career-ready by early 2022!
 
 #### Let's Collaborate!
 <img align="left" src="https://user-images.githubusercontent.com/3253714/139557681-011d8043-365b-40e7-8b01-39e0d6bf0e29.png" height="75" />
 
 - I’m looking to collaborate on front/back-end web development and Unity projects!
-- Please reach me at rubywep@hotmail.com (for now)!
-- You can also reach me at any of my socials, linked near the end!
+- Please reach me at rubywep@hotmail.com (for now)
+- You can also reach me at any of my socials, linked near the end
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epitome87&label=Profile%20views&color=0e75b6&style=flat" alt="epitome87" /> </p>
 
