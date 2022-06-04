@@ -2,24 +2,24 @@
   <img src="https://user-images.githubusercontent.com/3253714/139555814-f193936e-736c-49ad-8862-24546e696de1.png" width="150"/>
 <!--   <img src="https://user-images.githubusercontent.com/3253714/139562662-c88bbfd0-176f-4345-a3dc-f2fc0374cf42.png" height="300"/> -->
   <h1 align="center">Hi, I'm Matthew McGrath</h1>
-  <h3 align="center">An indie game creator and aspiring web developer!</h3>
+  <h3 align="center">A frontend web developer, design entusiast, and Unity hobbyist</h3>
 </p>
 <!-- ![Github-Header](https://user-images.githubusercontent.com/3253714/139562662-c88bbfd0-176f-4345-a3dc-f2fc0374cf42.png) -->
 
 #### A Bit About Me
 <img align="left" src="https://user-images.githubusercontent.com/3253714/139557357-181530a3-b19b-4900-9c93-8dbb2ad3cc61.png" alt="Astronaut With Dog" height="75" />
 
-- Known here as @Epitome87
-- I live in a small town in California, along with my handsome dog Leon!
-- In my spare time, I enjoy learning the piano, guitar, and playing video games
+- I live in a small town in California, along with my handsome dog, Leon!
+- Former game developer, hyper-focused now on HTML, CSS, JavaScript, and React
+- In my spare time, I enjoy expanding my design knowledge, learning the piano / guitar, and playing video games
 
 #### My Career Goals
 <img align="left" src="https://user-images.githubusercontent.com/3253714/140267403-0cf0ad65-cba1-4e89-9dc9-22d108d89dd6.png" height="75" />
 
 
-- I’m interested in strengthening my web and game development skills, along with 3D modeling
-- I’m currently learning Unity, full-stack web development, and Blender
-- I'm hoping to be a freelancer or career-ready by early 2022!
+- I’m currently pursuing a career in frontend or fullstack web development
+- Perpetually improving my web and game development skills
+- Ready to take on freelance projects or full-time employment!
 
 #### Let's Collaborate!
 <img align="left" src="https://user-images.githubusercontent.com/3253714/139557681-011d8043-365b-40e7-8b01-39e0d6bf0e29.png" height="75" />
