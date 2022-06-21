@@ -137,10 +137,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/matthew-mcgrath1987" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-mcgrath1987" height="30" width="40" /></a>
   <a href="https://fb.com/iepitomei" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iepitomei" height="30" width="40" /></a>
-   <a href="https://twitter.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epitome87" height="30" width="40" /></a>
   <a href="https://codepen.io/matt-mcgrath-the-bold" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matt-mcgrath-the-bold" height="30" width="40" /></a>
-  <a href="https://dribbble.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="epitome87" height="30" width="40" /></a>
-  <a href="https://www.youtube.com//epitome1987" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="epitome1987" height="30" width="40" /></a>
 </p>
 
 
