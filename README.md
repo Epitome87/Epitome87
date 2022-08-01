@@ -24,14 +24,14 @@
 
 - Known around here as @Epitome87
 - I live in a small town in California, along with my handsome dog Leon
-- In my spare time, I enjoy learning the piano, guitar, and playing video games
+- In my spare time I enjoy learning the piano, guitar, and playing video games
 
 <strong>My Career Goals</strong>
 
 <img align="left" src="https://user-images.githubusercontent.com/3253714/140267403-0cf0ad65-cba1-4e89-9dc9-22d108d89dd6.png" height="75" />
 
-- I’m interested in strengthening my web and game development skills, along with 3D modeling</p>
-- I’m currently freelancing fullstack web development while learning Unity & Blender</p>
+- I’m interested in strengthening my web and game development skills, along with 3D modeling
+- I’m currently freelancing fullstack web development while learning Unity & Blender
 - Eager for a professional web dev role at an established company!
 
 <strong>Let's Collaborate!</strong>
@@ -44,8 +44,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epitome87&label=Profile%20views&color=FF7595&style=flat" alt="epitome87" /> </p>
 
-<hr>
-
 <!--Project Section -->
 
 <h2 align="center">Recent Work</h2>
@@ -57,7 +55,8 @@
 <h3 align="center" color="white">Personal Portfolio</h2>
 <div align="center" >  
 <a href='https://matthewmcgrath.dev'>
-<img src="https://github.com/Epitome87/epitome87.github.io/blob/main/images/preview-personal-portfolio.png?raw=true" alt="Personal Portfolio" height="320px" width="100%" />
+<img src="https://user-images.githubusercontent.com/3253714/182261368-f148bf82-08e1-4b6c-807d-56b3591ff010.gif" alt="Personal Portfolio" height="250px" width="100%" />
+
 </a>
 <br>
 <br>
@@ -77,7 +76,7 @@
 <h3 align="center" color="white">Frontend Collection</h2>
 <div align="center" >  
 <a href='https://github.com/Epitome87/front-end-mentor-journey'>
-<img src="https://github.com/Epitome87/epitome87.github.io/blob/main/images/preview-social-proof-section.png?raw=true" alt="Frontend Mentor" height="320px" width="100%" />
+<img src="https://github.com/Epitome87/epitome87.github.io/blob/main/images/preview-social-proof-section.png" alt="Frontend Mentor" height="250px" width="100%" />
 </a>
 <br>
 <br>
@@ -97,7 +96,7 @@
 <h3 align="center" color="white">Flat UI</h2>
 <div align="center">  
 <a href='https://matthewmcgrath.dev/React-Flat-UI/'>
-<img src="https://github.com/Epitome87/epitome87.github.io/blob/main/images/preview-flat-ui-clone.png?raw=true" alt="Restaurant Website" height="320px" width="100%" />
+<img src="https://github.com/Epitome87/epitome87.github.io/blob/main/images/preview-flat-ui-clone.png" alt="Restaurant Website" height="250px" width="100%" />
 </a>
 <br>
 <br>
@@ -117,7 +116,7 @@
 <h3 align="center" color="white">Omnifood</h2>
 <div align="center">  
 <a href='https://omnifood.matthewmcgrath.dev/'>
-<img src="https://github.com/Epitome87/epitome87.github.io/blob/main/images/preview-omnifood.png?raw=true" alt="Restaurant Website Preview" height="320px" width="100%" />
+<img src="https://user-images.githubusercontent.com/3253714/182261977-e6595e8b-156d-4bf8-ad7e-7ab0ab7063f4.gif" alt="Restaurant Website Preview" height="250px" width="100%" />
 </a>
 <br>
 <br>
@@ -159,8 +158,7 @@
     <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/></a>
 <a href="https://sass-lang.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS Logo" width="50" height="50"/></a>
     <a href="https://threejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="ThreeJS Logo" width="50" height="50"/></a>
-
-  </p>
+</p>
 </details>
 
 <details>
