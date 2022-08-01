@@ -1,41 +1,142 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/3253714/139555814-f193936e-736c-49ad-8862-24546e696de1.png" width="150"/>
-<!--   <img src="https://user-images.githubusercontent.com/3253714/139562662-c88bbfd0-176f-4345-a3dc-f2fc0374cf42.png" height="300"/> -->
-  <h1 align="center">Hi, I'm Matthew McGrath</h1>
-  <h3 align="center">A frontend web developer, design entusiast, and Unity hobbyist</h3>
-</p>
-<!-- ![Github-Header](https://user-images.githubusercontent.com/3253714/139562662-c88bbfd0-176f-4345-a3dc-f2fc0374cf42.png) -->
+<!-- Banner Section -->
+![Github Banner](https://user-images.githubusercontent.com/3253714/182259763-56ec1bf0-39a6-46d1-9992-d7369f1e5cd7.png)
 
-#### A Bit About Me
+<div align="center">
+  <!-- <img src="https://user-images.githubusercontent.com/3253714/139555814-f193936e-736c-49ad-8862-24546e696de1.png" width="150"/> -->
+  <h2 align="center">Creating responsive websites and engaging indie games</h1>
+</div>
+
+<!-- Social Badge Section -->
+
+<p align="center">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/matthew-b-mcgrath/"><img src="https://img.shields.io/badge/Matthew_McGrath-FF7595?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/Epitome87"><img alt="Twitter Follow" src="https://img.shields.io/badge/@Epitome87-FF7595?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.codewars.com/users/Epitome87"><img src="https://img.shields.io/badge/Codewars-FF7595?style=for-the-badge&logo=Codewars&logoColor=white"></a>
+<a href="https://codepen.io/matt-mcgrath-the-bold"><img src="https://img.shields.io/badge/Codepen-FF7595?style=for-the-badge&logo=Codepen&logoColor=white"></a>
+<a href="mailto:matthew.mcgrath.b@gmail.com"><img src="https://img.shields.io/badge/matthew.mcgrath.b@gmail.com-FF7595?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<!-- About Me Section -->
+
+<strong>A Bit About Me</strong>
+
 <img align="left" src="https://user-images.githubusercontent.com/3253714/139557357-181530a3-b19b-4900-9c93-8dbb2ad3cc61.png" alt="Astronaut With Dog" height="75" />
 
-- I live in a small town in California, along with my handsome dog, Leon!
-- Former game developer, hyper-focused now on HTML, CSS, JavaScript, and React
-- In my spare time, I enjoy expanding my design knowledge, learning the piano / guitar, and playing video games
+- Known around here as @Epitome87
+- I live in a small town in California, along with my handsome dog Leon
+- In my spare time, I enjoy learning the piano, guitar, and playing video games
 
-#### My Career Goals
+<strong>My Career Goals</strong>
+
 <img align="left" src="https://user-images.githubusercontent.com/3253714/140267403-0cf0ad65-cba1-4e89-9dc9-22d108d89dd6.png" height="75" />
 
+- I’m interested in strengthening my web and game development skills, along with 3D modeling</p>
+- I’m currently freelancing fullstack web development while learning Unity & Blender</p>
+- Eager for a professional web dev role at an established company!
 
-- I’m currently pursuing a career in frontend or fullstack web development
-- Perpetually improving my web and game development skills
-- Ready to take on freelance projects or full-time employment!
+<strong>Let's Collaborate!</strong>
 
-#### Let's Collaborate!
 <img align="left" src="https://user-images.githubusercontent.com/3253714/139557681-011d8043-365b-40e7-8b01-39e0d6bf0e29.png" height="75" />
 
-- I’m looking to collaborate on front/back-end web development and Unity projects!
-- Please reach me at rubywep@hotmail.com (for now)
+- I’m looking to collaborate on fullstack web development and Unity projects
+- Please reach me at matthew.mcgrath.b@gmail.com
 - You can also reach me at any of my socials, linked near the end
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=epitome87&label=Profile%20views&color=0e75b6&style=flat" alt="epitome87" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=epitome87&label=Profile%20views&color=FF7595&style=flat" alt="epitome87" /> </p>
 
 <hr>
 
+<!--Project Section -->
+
+<h2 align="center">Recent Work</h2>
+<div align="center">
+<table>
+<tr>
+
+<td width="50%">
+<h3 align="center" color="white">Personal Portfolio</h2>
+<div align="center" >  
+<a href='https://matthewmcgrath.dev'>
+<img src="https://github.com/Epitome87/epitome87.github.io/blob/main/images/preview-personal-portfolio.png?raw=true" alt="Personal Portfolio" height="320px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/Epitome87/epitome87.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Code-777DA7?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://matthewmcgrath.dev" target="_blank">
+<img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=FF7595"/>
+</a>
+</p>
+<p><strong>SASS, HTML5, JavaScript</strong> — My personal website! Created with a simple stack for optimum performance. Here you can learn more about me, view some of my projects, and reach me through a contact form. </p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center" color="white">Frontend Collection</h2>
+<div align="center" >  
+<a href='https://github.com/Epitome87/front-end-mentor-journey'>
+<img src="https://github.com/Epitome87/epitome87.github.io/blob/main/images/preview-social-proof-section.png?raw=true" alt="Frontend Mentor" height="320px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/Epitome87/front-end-mentor-journey" target="_blank">
+<img src="https://img.shields.io/badge/Code-777DA7?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://github.com/Epitome87/front-end-mentor-journey" target="_blank">
+<img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=FF7595"/>
+</a>
+</p>
+<p><strong>CSS3, HTML5, JavaScript</strong> — An assortment of frontend-focused projects, ranging from pricing cards, testimonial sections, to fully-realized, beautiful landing pages. More than 15 projects and counting!</p>
+</div>
+<tr>
+
+<td width="50%">
+<h3 align="center" color="white">Flat UI</h2>
+<div align="center">  
+<a href='https://matthewmcgrath.dev/React-Flat-UI/'>
+<img src="https://github.com/Epitome87/epitome87.github.io/blob/main/images/preview-flat-ui-clone.png?raw=true" alt="Restaurant Website" height="320px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/Epitome87/React-Flat-UI" target="_blank">
+<img src="https://img.shields.io/badge/Code-777DA7?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://matthewmcgrath.dev/React-Flat-UI/" target="_blank">
+<img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=FF7595"/>
+</a>
+</p>
+<p><strong>React</strong> — Fullstack, highly-polished clone of the Flat UI website. Incorporates every main feature and adds some of its own. Create, edit, delete, and save your own color palettes and quickly copy color codes in a variety of formats.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center" color="white">Omnifood</h2>
+<div align="center">  
+<a href='https://omnifood.matthewmcgrath.dev/'>
+<img src="https://github.com/Epitome87/epitome87.github.io/blob/main/images/preview-omnifood.png?raw=true" alt="Restaurant Website Preview" height="320px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/Epitome87/Omni-Food" target="_blank">
+<img src="https://img.shields.io/badge/Code-777DA7?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://omnifood.matthewmcgrath.dev/" target="_blank">
+<img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=FF7595"/>
+</a>
+</p>
+<p><strong>CSS3, HTML5, JavaScript</strong> — Large-scope landing page for a fictional food-delivery business. Uses HTML, SASS, and JavaScript to create a completely fully-responsive, beautifully-designed user experience.</p>
+</div>
+</td>
+
+</table>
+</div>
+
 ### My Developer Toolbox
-
-
-
 
 <details>
   <summary>Programming Languages...</summary>
@@ -96,7 +197,7 @@
 
 <hr>
 
-<!-- ### My GitHub Stats 
+<!-- ### My GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Epitome87&theme=github_dark&show_icons=true&hide=issues&disable_animations=false&custom_title=Matthew's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Matthew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Epitome87&theme=github_dark&layout=compact&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
@@ -127,23 +228,18 @@
 
 <hr>
 
-
 <!--  Github Trophy Showcase - Hiding this until I get better trophies! -->
 <!-- ### Github Trophy Showcase
 [![Matthew's Github Trophies](https://github-profile-trophy.vercel.app/?username=Epitome87&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
  -->
+
 ### Visit Me On My Socials!
 
 <p align="left">
   <a href="https://linkedin.com/in/matthew-mcgrath1987" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-mcgrath1987" height="30" width="40" /></a>
-  <a href="https://fb.com/iepitomei" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iepitomei" height="30" width="40" /></a>
+  <!-- <a href="https://fb.com/iepitomei" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iepitomei" height="30" width="40" /></a> -->
+   <a href="https://twitter.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epitome87" height="30" width="40" /></a>
   <a href="https://codepen.io/matt-mcgrath-the-bold" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matt-mcgrath-the-bold" height="30" width="40" /></a>
+  <a href="https://dribbble.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="epitome87" height="30" width="40" /></a>
+  <a href="https://www.youtube.com//epitome1987" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="epitome1987" height="30" width="40" /></a>
 </p>
-
-
-
-
-
-
-
-
