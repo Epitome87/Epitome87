@@ -9,7 +9,7 @@
 <!-- Social Badge Section -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/matthew-b-mcgrath/"><img src="https://img.shields.io/badge/Matthew_McGrath-FF7595?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/matthew-b-mcgrath/"><img src="https://img.shields.io/badge/Matthew_McGrath-FF7595?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/Epitome87"><img alt="Twitter Follow" src="https://img.shields.io/badge/@Epitome87-FF7595?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.codewars.com/users/Epitome87"><img src="https://img.shields.io/badge/Codewars-FF7595?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 <a href="https://codepen.io/matt-mcgrath-the-bold"><img src="https://img.shields.io/badge/Codepen-FF7595?style=for-the-badge&logo=Codepen&logoColor=white"></a>
