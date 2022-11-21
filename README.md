@@ -76,7 +76,7 @@
 <h3 align="center" color="white">Frontend Collection</h2>
 <div align="center" >  
 <a href='https://github.com/Epitome87/front-end-mentor-journey'>
-<img src="https://github.com/Epitome87/epitome87.github.io/blob/main/images/preview-social-proof-section.png" alt="Frontend Mentor" height="250px" width="100%" />
+<img src="https://user-images.githubusercontent.com/3253714/203160995-626be9af-a424-42f1-bfab-83b8f23e25a1.gif" alt="Frontend Mentor" height="250px" width="100%" />
 </a>
 <br>
 <br>
