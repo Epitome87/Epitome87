@@ -3,7 +3,8 @@
 
 <div align="center">
   <!-- <img src="https://user-images.githubusercontent.com/3253714/139555814-f193936e-736c-49ad-8862-24546e696de1.png" width="150"/> -->
-  <h2 align="center">Creating responsive websites and engaging indie games</h1>
+  <!-- <h2 align="center">Creating responsive websites and engaging indie games</h2> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1500&color=F7F7F7&center=true&vCenter=true&width=450&lines=Creating+responsive+websites;Developing+engaging+indie+games;Coding+and+learning+daily!" alt="Typing SVG" /></a>
 </div>
 
 <!-- Social Badge Section -->
