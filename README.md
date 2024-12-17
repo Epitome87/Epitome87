@@ -12,6 +12,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/matthew-b-mcgrath/"><img src="https://img.shields.io/badge/Matthew_McGrath-FF7595?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/Epitome87"><img alt="Twitter Follow" src="https://img.shields.io/badge/@Epitome87-FF7595?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://leetcode.com/u/epitome87/"><img src="https://img.shields.io/badge/LeetCode-FF7595?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
 <a href="https://www.codewars.com/users/Epitome87"><img src="https://img.shields.io/badge/Codewars-FF7595?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 <a href="https://codepen.io/matt-mcgrath-the-bold"><img src="https://img.shields.io/badge/Codepen-FF7595?style=for-the-badge&logo=Codepen&logoColor=white"></a>
 <a href="mailto:matthew.mcgrath.b@gmail.com"><img src="https://img.shields.io/badge/matthew.mcgrath.b@gmail.com-FF7595?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -229,15 +230,15 @@
 
 <!--  Github Trophy Showcase - Hiding this until I get better trophies! -->
 <!-- ### Github Trophy Showcase
-[![Matthew's Github Trophies](https://github-profile-trophy.vercel.app/?username=Epitome87&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
- -->
+[![Matthew's Github Trophies](https://github-profile-trophy.vercel.app/?username=Epitome87&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 
 ### Visit Me On My Socials!
 
 <p align="left">
-  <a href="https://linkedin.com/in/matthew-mcgrath1987" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-mcgrath1987" height="30" width="40" /></a>
-  <!-- <a href="https://fb.com/iepitomei" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iepitomei" height="30" width="40" /></a> -->
-   <a href="https://twitter.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epitome87" height="30" width="40" /></a>
-  <a href="https://codepen.io/matt-mcgrath-the-bold" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matt-mcgrath-the-bold" height="30" width="40" /></a>
-  <a href="https://dribbble.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="epitome87" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/matthew-mcgrath1987" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn matthew-mcgrath1987" height="30" width="40" /></a>
+  <a href="https://twitter.com/epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter epitome87" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/epitome87/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Epitome87" height="30" width="40" /></a>
+  <a href="https://www.codewars.com/users/Epitome87" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/codewars/branding/blob/master/logo.svg" alt="Codewars Epitome87" height="30" width="40" /></a>
+  <a href="https://codepen.io/matt-mcgrath-the-bold" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen matt-mcgrath-the-bold" height="30" width="40" /></a>
 </p>
